@@ -26,7 +26,7 @@ The database I will be using is a dataset collected by the Mass mobilisation dat
 
 Data processing 
 
-To process the data, I first changed all capitalised words into non-capitalised words. I also split my data into test, validation and training sets. After that, I tokenised and padded each protest description using Kera’s tokenizer and padding functions and also vectorized labels.
+To process the data, I first changed all capitalised words into non-capitalised words. I also split my data into test, validation and training sets. After that, I tokenised and padded each protest description using Kera's tokenizer and padding functions and also vectorized labels.
 
 Model 
 
