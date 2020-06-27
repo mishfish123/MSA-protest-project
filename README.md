@@ -9,7 +9,7 @@ In light of recent civil unrest, including #blacklivesmatter and #metoo movement
 
 <p> Along with certain RSS scraping methods, I would like to extend this project to automatically label incoming news articles in accordance to protest demands. I would also love to have more comprehesive labels to describe each event, to provide insightful analysis of what specifically demands are around the world, to see if there are any similarities and differences.
     
-### Environment set up and dependencies#
+### Environment set up and dependencies #
     
  The following packages will be required for performing my analysis. Most of which would already be available if anaconda is installed on the local machine. 
     
@@ -20,7 +20,7 @@ In light of recent civil unrest, including #blacklivesmatter and #metoo movement
     *keras 
     *matplotlib
    
-### Instructions on how I trained and tested my training model#
+### Instructions on how I trained and tested my training model #
 
 The database I will be using is a dataset collected by the Mass mobilisation data project. Each data row many descriptions including a 200 word description of the event that took place and a label describing protestor demands.
 
